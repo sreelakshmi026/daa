@@ -1,0 +1,15 @@
+Report
+SUBMITTED BY:
+Mopurisreelakshmi : 1ks18cs053
+latha.v : 1ks18cs037
+
+CONTRIBUTIONS :
+we have discussed about the problem and tried our own method to obtain 
+solotion of the program
+1.Mopuri sreelakshmi
+Has contributed in including the file cocepts and operations of the file.
+she has read all the basic operations performed on it and implemented into the program
+and tried different ways of obtaining solution of the program.
+2.latha.v
+Has undestood outcome of project and decoded the logic of programs 
+when we found errors in the program,and helped for debugging the program

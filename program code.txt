@@ -1,0 +1,31 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int i,n,j=0;
+    char ch[25],ch1[25],temp[25];
+    cout<<"Enter the string "<<endl;
+    cin>>ch;
+    cout<<"Enter the number of characters to be reverse ";
+    cin>>n;
+    for(i=0;i<n;i++)
+    {
+        temp[i]=ch[i];
+    }
+    for(i=n;ch[i]!='\0';i++)
+    {
+        ch1[j]=ch[i];
+        j++;
+    }
+    for(i=0;i<n;i++)
+    {
+        ch1[j]=temp[i];
+        j++;
+    }
+    ch1[j]='\0';
+    cout<<"the rotation of string is "<<endl;
+    cout<<ch1<<"\n";
+    
+}
